@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My test image](https://www.riverbendadvisors.com/blog/wp-content/uploads/2016/01/Riverbend-R-100-trans.png)
